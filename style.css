@@ -28,3 +28,10 @@ h1{font-size: 40px;
 p{font-size: 20;
 
 }
+img{height: 200px;}
+.categoria-vieo {
+    display: flex;
+    over-flow-x:auto;
+    gap:10px;
+
+}
