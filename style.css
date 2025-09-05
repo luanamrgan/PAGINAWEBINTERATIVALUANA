@@ -1,8 +1,8 @@
 body {
     color: rgb(195, 170, 228);
     background: rgb(158, 22, 22);
-
-
+    margin:0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 header {
@@ -11,7 +11,7 @@ header {
     font-size: 32px;
     color: rgb(221,108,108);
 }
-section{
+.chamada{
     background-color: rgb(223, 145, 181);
     padding-bottom: 80px;
     padding-top: 80px;
